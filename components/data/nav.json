@@ -1,0 +1,356 @@
+[
+    {
+        "title":"Dashboards",
+        "svg":"/home-outline.svg",
+        
+        "list":[
+            {  
+                "name":"Multipurpose",
+                "href":"/multipurpose"
+            },
+            {  
+                "name":"Multipurpose 2",
+                "href":"/multipurpose2"
+            },
+            {  
+                "name":"Ecommerce",
+                "href":"/ecommerce"
+            },
+            {  
+                "name":"Multipurpose Marketing",
+                "href":"/multipurpose-marketing"
+            },
+            {  
+                "name":"Analytical",
+                "href":"/Analytical"
+            }
+
+    ]
+    },
+    {
+        "title":"Pages",
+        "svg":"/receipt-outline.svg",
+        "list":[
+            {  
+                "name":"Login",
+                "href":"/pages-login"
+            },
+            {  
+                "name":"Sign Up",
+                "href":"/pages-sign-up"
+            },
+            {  
+                "name":"Error 404",
+                "href":"/pages-error-404"
+            },
+            {  
+                "name":"FAQ Style 1",
+                "href":"/pages-error404-style1"
+            },
+            {  
+                "name":"FAQ Style 2",
+                "href":"/pages-error404-style1"
+            }
+
+    ]
+    },
+    {
+        "title":"Account",
+        "svg":"/person-outline.svg",
+        "list":[
+            {  
+                "name":"Overview",
+                "href":"/account-overview"
+            },
+            {  
+                "name":"Settings",
+                "href":"/account-settings"
+            },
+            {  
+                "name":"Security",
+                "href":"/account-security"
+            },
+            {  
+                "name":"Billing",
+                "href":"/account-billing"
+            },
+            {  
+                "name":"Statements",
+                "href":"/account-statements"
+            },
+            {  
+                "name":"Referals",
+                "href":"/account-referals"
+            },
+            {  
+                "name":"API Keys",
+                "href":"/account-api-keys"
+            },
+            {  
+                "name":"Logs",
+                "href":"/account-logs"
+            }
+            
+
+    ]
+    },{
+        "title":"Widgets",
+        "svg":"/bookmark-outline.svg",
+        "list":[
+            {  
+                "name":"List",
+                "href":"/widgets-list"
+            },
+            {  
+                "name":"Charts",
+                "href":"/widgets-charts"
+            },
+            {  
+                "name":"Table",
+                "href":"/widgets-table"
+            },
+            {  
+                "name":"Statistics",
+                "href":"/widgets-statistics"
+            }
+           
+
+    ]
+    },{
+        "title":"Utilities",
+        "svg":"/shapes-outline.svg",
+        "list":[
+            {  
+                "name":"Horizontal Search",
+                "href":"/utilities-h-search"
+            },
+            {  
+                "name":"Vertical Search",
+                "href":"/utilities-v-search"
+            },
+            {  
+                "name":"Vertical Wizard ",
+                "href":"/utilities-v-wizard"
+            },
+            {  
+                "name":"Horizontal Wizard Style 1",
+                "href":"/utilities-h-wizard1"
+            },
+            {  
+                "name":"Horizontal Wizard Style 1",
+                "href":"/utilities-h-wizard2"
+            }
+
+    ]
+    },{
+        "title":"UI Components",
+        "svg":"/home-outline.svg",
+        "list":[
+            {  
+                "name":"Buttons",
+                "href":"/ui-buttons"
+            },
+            {  
+                "name":"Dropdowns",
+                "href":"/ui-dropdowns"
+            },
+            {  
+                "name":"Loaders",
+                "href":"/ui-loaders"
+            },
+            {  
+                "name":"Tooltips",
+                "href":"/ui-toooltips"
+            },
+            {  
+                "name":"Progress Bars",
+                "href":"/ui-prgressbars"
+            },
+            {  
+                "name":"Stepper",
+                "href":"/ui-steppers"
+            },
+            {  
+                "name":"Accordians",
+                "href":"/ui-accordians"
+            },
+            {  
+                "name":"Ratings",
+                "href":"/ui-rattings"
+            },
+            {  
+                "name":"Modals",
+                "href":"/ui-modals"
+            },
+            {  
+                "name":"Notification",
+                "href":"/ui-notification"
+            },
+            {  
+                "name":"Tabs",
+                "href":"/ui-tabs"
+            },{  
+                "name":"Alerts",
+                "href":"/ui-alerts"
+            }
+
+    ]
+    }
+    ,
+    {
+        "title":"Applications",
+        "svg":"/gift-outline.svg",
+        "list":[
+            {  
+                "title":"Project Management",
+                "list":[
+                    {
+                        "name":"Overview",
+                        "href":"/project-overview"
+                    },
+                    {
+                        "name":"Target",
+                        "href":"/project-target"
+                    }
+                    ,
+                    {
+                        "name":"Settings",
+                        "href":"/project-settings"
+                    }
+                    ,
+                    {
+                        "name":"Users",
+                        "href":"/project-users"
+                    }
+                    ,
+                    {
+                        "name":"Files",
+                        "href":"/project-files"
+                    }
+                    ,
+                    {
+                        "name":"Budget",
+                        "href":"/project-budget"
+                    }
+                    ,
+                    {
+                        "name":"Activity",
+                        "href":"/project-activity"
+                    }
+                    
+
+                ]
+            },
+            {  
+                "title":"Ecommerce",
+                "list":[
+
+                    {
+                        "title":"Catalogue",
+                        "list":[
+                            {
+                                "name":"Prodcut List",
+                                "href":"/catalogue-list"
+                            },
+                            {
+                                "name":"Add Product",
+                                "href":"/catalogue-add-product"
+                            },    {
+                                "name":"Edit Product",
+                                "href":"/catalogue-edit-product"
+                            },    {
+                                "name":"Category List",
+                                "href":"/catalogue-category-list"
+                            },    {
+                                "name":"Add Category",
+                                "href":"/catalogue-add-category"
+                            },    {
+                                "name":"Edit Category",
+                                "href":"/catalogue-edit-categoey"
+                            },    {
+                                "name":"",
+                                "href":"/catalogue-"
+                            }
+
+
+                        ]
+
+                    },
+                    {
+                        "title":"Order",
+                        "list":[
+                            {
+                                "name":"Order List",
+                                "href":"/order-list"
+                            },
+                            {
+                                "name":"Order Details",
+                                "href":"/order-details"
+                            },{
+                                "name":"Order Details Veriation 2",
+                                "href":"/order-details-veriation2"
+                            },{
+                                "name":"Edit Order",
+                                "href":"/order-edit-order"
+                            },{
+                                "name":"Add Order",
+                                "href":"/order-add-order"
+                            }
+                        ]
+
+                    },
+                    {
+                        "title":"Overview",
+                        "list":[
+                            {
+                                "name":"Total Views",
+                                "href":"overview-total-views"
+                            },
+                            {
+                                "name":"Total Sales",
+                                "href":"overview-total-sales"
+                            },{
+                                "name":"Total Returns",
+                                "href":"overview-total-returns"
+                            },{
+                                "name":"Total Orders",
+                                "href":"overview-total-orders"
+                            },{
+                                "name":"Total Shippings",
+                                "href":"overview-total-shippings"
+                            },{
+                                "name":"",
+                                "href":"overview-"
+                            }
+
+                        ]
+
+                    },
+                    {
+                        "title":"Customer",
+                        "list":[
+                            {
+                                "name":"Customer List",
+                                "href":"customer-list"
+                            },
+                            {
+                                "name":"Customer Details",
+                                "href":"customer-details"
+                            }
+                        ]
+
+                    },
+                    {
+                        "title":"Settings",
+                        "href":"/settings"
+
+                    }
+                ]
+            }
+            
+
+    ]
+    }
+
+
+]
